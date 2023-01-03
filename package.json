@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "random-ua": "^0.0.6",
+    "sync-request": "^6.1.0"
+  }
+}
